@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Natalie 
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on any hackathons! 
+- 😄 Favourite languages: python, C++, javascript 
 - 📫 How to reach me: natalie.wu20@imperial.ac.uk
 
 <!--
