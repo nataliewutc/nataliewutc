@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on any hackathons! 
 - 😄 Favourite language: python
-- 📫 How to reach me: natalie.wu20@imperial.ac.uk
 
 <!--
 **nataliewutc/nataliewutc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
